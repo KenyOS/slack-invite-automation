@@ -1,6 +1,6 @@
 {
-  "HEADER": "Digite seu email abaixo para se juntar a %s no Slack!",
-  "ENTER_EMAIL": "Insira seu endereço de e-mail",
+  "HEADER": "Preencha seu email abaixo para se juntar ao grupo %s!",
+  "ENTER_EMAIL": "seu email",
   "ENTER_TOKEN": "Digite seu Token de convite que foi dado a você",
-  "TITLE": "Junte-se a comunidade %s no Slack!"
+  "TITLE": "Junte-se ao %s!"
 }
